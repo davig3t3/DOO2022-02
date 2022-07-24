@@ -1,6 +1,8 @@
 import random
 import time
 
+#HOLA PANA MIGUEL Y MELANIE <3
+
 # Listas de Palabras
 dificil = ['construccion', 'polimorfismo']
 
