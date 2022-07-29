@@ -1,3 +1,4 @@
+#asd
 while True:
     choise_admin = input(
         " 1 -- Modificar VIDAS\n 2 -- Modificar PUNTOS\n 3 -- Modificar BONUS\n 4 -- Modificar PALABRAS\n 5 -- SALIR\n")
