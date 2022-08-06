@@ -3,6 +3,9 @@ import time
 
 # HOLA PANA MIGUEL Y MELANIE <3
 
+# asdadsasdasd
+#asdadasdasasdad
+
 # Listas de Palabras
 dificil = ['construccion', 'polimorfismo']
 medio = ['panadero', 'artesano']
